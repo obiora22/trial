@@ -10,14 +10,14 @@ html{
 }
 #logo{
  text-align: center;
- font:bold 3.5em monospace;
+ font:bold 3em monospace;
  color: #ED8D38;
  margin: 0;
  float: left;
 }
 
 header{
- background-color: rgba(0,0,0,0.8);
+ background-color: rgba(0,0,0,0.9);
  height: 100px;
 	width: 100%;
  position: fixed;	
