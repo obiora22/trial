@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 });*/
 
- $('button, #navigation').hover(open,close);
+ $('#menu-button, #navigation').hover(open,close);
  
  function open(){
    $('#navigation').show();
