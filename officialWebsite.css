@@ -41,7 +41,7 @@ header{
  height: 40px;
 	width: 140px;
  margin-top: 60px;
-	
+	text-align: center
 }
 
 li{
@@ -56,7 +56,7 @@ li{
  }
 #navigationButtons li a{
   text-decoration: none;
-  font: bold 1.3em monospace;
+  font: bold 1.4em monospace;
   color: #fff;
   border-radius: 4px;
   margin: 0 10px;
