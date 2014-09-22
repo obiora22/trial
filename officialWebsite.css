@@ -84,7 +84,7 @@ body{
 
 footer{
  height: 200px;
- background-color: rgba(0,0,0,0.8);
+ background-color: rgba(0,0,0,0.9);
  
 }
 
@@ -98,7 +98,7 @@ top: 100px;
 #contactInfo a{
  text-decoration: none;
  color: #ED8D38;
- font: bold 2em monospace;
+ font: bold 2.3em monospace;
  border-radius: 2px;
  display:inline-block;
  margin: 10px 30px;
